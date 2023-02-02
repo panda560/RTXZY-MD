@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6288214989352'] 
-global.mods = ['6288214989352'] 
-global.prems = ['6288214989352'] 
+global.owner = ['855389162590'] 
+global.mods = ['855389162590'] 
+global.prems = ['855389162590'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '⫹⫺ HamzGanz'
-global.numberowner = '6288214989352'
-global.instagram = 'https://instagram.com/hamzz.jr'
-global.github = 'https://github.com/HamzBotzzzzz'
-global.dana = '6288214989352'
-global.pulsa = '6288214989352'
+global.nameowner = '⫹⫺ Rezaganz'
+global.numberowner = '855389162590'
+global.instagram = 'https://instagram.com/arrezza20'
+global.github = 'https://github.com/panda560'
+global.dana = ''
+global.pulsa = '+62 821-8133-7337'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ZxynnBotz'
-global.gc = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Ejyunofcbotz'
+global.gc = 'https://chat.whatsapp.com/GyicFEhuiwF5NF11vDuxuq'
+global.web = 'https://instagram.com/arrezza20 ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.
 global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ZxynnBotz'
+global.wm = '© Ejyunofcbotz'
 global.watermark = wm
-global.wm2 = '⫹⫺ ZxynnBotz'
-global.wm3 = '© HamzGanteng'
+global.wm2 = '⫹⫺ Ejyunofcbotz'
+global.wm3 = '© Tama ganteng'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -38,7 +38,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'ZxynnBotz'
-global.author = 'HamzGanz\nZxynnBotz'
+global.author = 'Tamaganz\nEjyunofcbotz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
